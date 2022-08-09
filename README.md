@@ -1,1 +1,6 @@
-# Justalex17.github.io
+**Hello wrold**
+```
+git status
+git add
+git commit
+```
